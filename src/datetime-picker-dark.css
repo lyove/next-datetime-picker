@@ -1,5 +1,5 @@
 /**
- * @name: vanilla-datetime-picker
+ * @name: next-datetime-picker
  * @license: Licensed under the MIT license. See http://www.opensource.org/licenses/mit-license.php
  */
 
