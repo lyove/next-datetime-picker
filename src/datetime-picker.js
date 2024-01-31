@@ -4,7 +4,7 @@
  */
 
 // IE browser doesn't support "class"
-var DateTimePicker;
+let DateTimePicker;
 (function () {
   DateTimePicker = function (element, options, cb) {
     //default settings for options
